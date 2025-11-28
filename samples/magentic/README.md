@@ -60,7 +60,7 @@ Example Use Case:
 
 ## Setup
 
-1. Clone the repository and navigate to the `samples/magentic` directory.
+1. Clone the repository.
 2. Create a virtual environment and install dependencies:
 
    ```bash
@@ -71,7 +71,7 @@ Example Use Case:
 
    If you already have the agent-framework installed globally or followed the main README guidance, you can skip this step.
 
-3. Copy the `.env.example` to `.env` and set your Azure OpenAI endpoint and deployment names:
+3. Navigate to the `samples/magentic` directory, copy the `.env.example` to `.env` and set your Azure OpenAI endpoint and deployment names:
 
    ```bash
     cp .env.example .env
@@ -83,8 +83,13 @@ Example Use Case:
    ```bash
    python main.py
    ```
+   or from the repositoy's root folder:
+   
+    ```bash
+   python samples/magentic/main.py
+   ```
 
-6. Observe the console output for real-time orchestration events and the final synthesized result.
+7. Observe the console output for real-time orchestration events and the final synthesized result.
 
 ## Notes
 
