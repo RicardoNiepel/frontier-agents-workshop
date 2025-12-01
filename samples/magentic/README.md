@@ -73,12 +73,7 @@ Example Use Case:
 
 3. Configure your `.env` file with the necessary API keys and model settings.
 
-4. Run the Magentic orchestration script:
-
-   ```bash
-   python main.py
-   ```
-   or from the repositoy's root folder:
+4. Run the Magentic orchestration script from the repository's root folder:
    
     ```bash
    python samples/magentic/main.py
