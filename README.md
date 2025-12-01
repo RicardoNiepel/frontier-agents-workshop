@@ -17,9 +17,28 @@ Join us for an immersive hands-on lab focused on Microsoft Agent Framework, wher
 
 ![What is an agent](./what_is_an_agent.png)
 
-A simple LLM-based chatbot primarily focuses on generating responses based on predefined patterns and language models, often requiring user input to continue the conversation. In contrast, autonomous agents are designed to perform tasks independently, making decisions and taking actions without constant user input, often leveraging advanced AI techniques to achieve their goals. 
 
-![Spectrum of agentic behaviour](./spectrum.png)
+## Learning Goals for this workshop
+
+🛠 Agent Authoring - Learning to use the *Microsoft Agent Framework* SDK for code-based and declarative agent development.
+
+![workflows](./images/workflows.png)
+
+🚀 Agent Debugging - Build, Test and Deploy agents using the DevUI, Foundry UI or VSCode Extension.
+
+![devui](./images/tooling.png)
+
+🔌 Connect Agents - Connect agents using AG-UI, MCP, A2A Protocols to integrate them into your solutions.
+
+![protocols](./images/protocols.png)
+
+⚙️ Multi-Agent Orchestration - Define multi-agent orchestration workflows to solve complex problems with agents.
+
+![patterns](./images/patterns.png)
+
+🔍 Agent Tracing & Evaluation - Trace agent behaviour,  execution flows and evaluate quality and safety of agents.
+
+![evaluations](./images/evaluations.png)
 
 ## Prerequisites
 

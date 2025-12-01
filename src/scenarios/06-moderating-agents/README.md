@@ -13,7 +13,7 @@ Relevant references
 - Magentic One article: https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/
 
 Relevant samples:
-- `samples/agent-moderation` – examples of moderating or orchestrating agents.
+- [`samples/agent-moderation`](../../../samples/agent-moderation) – examples of moderating or orchestrating agents.
 
 Input queries:
 - "Plan a 7-day city and nature trip in Europe under 2,000 EUR."

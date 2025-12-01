@@ -13,9 +13,9 @@ Relevant references
 - A2A protocol specification: https://a2a-protocol.org/latest/
 
 Relevant samples:
-- `samples/a2a_communication/server` – A2A agent server exposing an agent over the protocol.
-- `samples/a2a_communication/agent-client.py` – client agent that calls another agent via A2A.
-- `samples/simple-agents/basic-agent.py` – starting point for implementing simple tool-based behavior for either agent.
+- [`samples/a2a_communication/server`](../../../samples/a2a_communication/server) – A2A agent server exposing an agent over the protocol.
+- [`samples/a2a_communication/agent-client.py`](../../../samples/a2a_communication/agent-client.py) – client agent that calls another agent via A2A.
+- [`samples/simple-agents/basic-agent.py`](../../../samples/simple-agents/basic-agent.py) – starting point for implementing simple tool-based behavior for either agent.
 
 Input queries:
 - "Plan a 5-day trip for me somewhere in Europe where the weather will be sunny next month."

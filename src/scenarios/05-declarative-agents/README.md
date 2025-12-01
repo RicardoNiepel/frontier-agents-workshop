@@ -13,10 +13,10 @@ Relevant references
 - Declarative agents and workflows overview: https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/vs-code-agents-workflow-low-code?view=foundry
 
 Relevant samples:
-- `samples/declarative-agents/weather-assistant.yaml` – declarative assistant that can call a weather tool.
-- `samples/declarative-agents/location-assistant.yaml` – declarative assistant returning structured JSON with language, answer and type.
-- `samples/declarative-agents/travel-agengy-workflow.yaml` – workflow that chains location and weather assistants.
-- `samples/declarative-agents/run-simple-assistant.py` – simple runner for testing declarative assistants.
+- [`samples/declarative-agents/weather-assistant.yaml`](../../../samples/declarative-agents/weather-assistant.yaml) – declarative assistant that can call a weather tool.
+- [`samples/declarative-agents/location-assistant.yaml`](../../../samples/declarative-agents/location-assistant.yaml) – declarative assistant returning structured JSON with language, answer and type.
+- [`samples/declarative-agents/travel-agency-workflow.yaml`](../../../samples/declarative-agents/travel-agengy-workflow.yaml) – workflow that chains location and weather assistants.
+- [`samples/declarative-agents/run-simple-assistant.py`](../../../samples/declarative-agents/run-simple-assistant.py) – simple runner for testing declarative assistants.
 
 Input queries:
 - "I speak German. Recommend two cities I could visit next month and tell me what the weather will be like."

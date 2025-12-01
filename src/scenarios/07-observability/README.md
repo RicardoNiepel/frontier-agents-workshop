@@ -13,7 +13,7 @@ Relevant references
 - Agent Framework evaluation sample (self-reflection): https://github.com/microsoft/agent-framework/tree/main/python/samples/getting_started/evaluation/self_reflection
 
 Relevant samples:
-- `samples/evaluation/self-evaluation.py` – example of running evaluations and analyzing results.
+- [`samples/evaluation/self-evaluation.py`](../../../samples/evaluation/self-evaluation.py) – example of running evaluations and analyzing results.
 
 Input queries:
 - "Run these five prompts through my travel agent and show me which ones failed the groundedness check."

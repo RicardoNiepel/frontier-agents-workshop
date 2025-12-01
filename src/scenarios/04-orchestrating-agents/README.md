@@ -13,9 +13,9 @@ Relevant references
 - (Add link to Microsoft Agent Framework workflow documentation used in your environment.)
 
 Relevant samples:
-- `samples/workflows/generation-workflow.py` – example of structuring a generation task as a workflow.
-- `samples/workflows/parallel-agents.py` – example of coordinating multiple agents in parallel.
-- `samples/simple-agents/basic-agent.py` – simple agent you can plug into workflow steps.
+- [`samples/workflows/generation-workflow.py`](../../../samples/workflows/generation-workflow.py) – example of structuring a generation task as a workflow.
+- [`samples/workflows/parallel-agents.py`](../../../samples/workflows/parallel-agents.py) – example of coordinating multiple agents in parallel.
+- [`samples/simple-agents/basic-agent.py`](../../../samples/simple-agents/basic-agent.py) – simple agent you can plug into workflow steps.
 
 Input queries:
 - "Plan my day tomorrow including where I should go based on the weather and give me a short summary."

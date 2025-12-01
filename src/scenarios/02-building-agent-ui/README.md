@@ -13,9 +13,9 @@ Relevant references
 - AG-UI protocol introduction: https://docs.ag-ui.com/introduction
 
 Relevant samples:
-- `samples/ag-ui/simple-ag-ui-client.py` – minimal console-style AG-UI client that connects to an agent endpoint.
-- `samples/ag-ui/simple-ag-ui-server.py` – simple AG-UI-compatible server hosting an agent.
-- `samples/simple-agents/basic-agent.py` – basic agent implementation you can adapt for weather.
+- [`samples/ag-ui/simple-ag-ui-client.py`](../../../samples/ag-ui/simple-ag-ui-client.py) – minimal console-style AG-UI client that connects to an agent endpoint.
+- [`samples/ag-ui/simple-ag-ui-server.py`](../../../samples/ag-ui/simple-ag-ui-server.py) – simple AG-UI-compatible server hosting an agent.
+- [`samples/simple-agents/basic-agent.py`](../../../samples/simple-agents/basic-agent.py) – basic agent implementation you can adapt for weather.
 
 Input queries:
 - "Set my location to Seattle and tell me today’s weather."
